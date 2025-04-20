@@ -508,10 +508,18 @@ timing ｜タイミング
   transition-delay: .8s;
 }
 
+/* Top */
+
+h1 {
+  font-size: 80px;
+}
+
 /* About */
 
 .A_container {
   font-size: 80%;
+  display: block;
+  text-align: center;
 }
 
 .plofImg {
